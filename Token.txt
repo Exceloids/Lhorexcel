@@ -1,3 +1,3 @@
-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
+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
 
-git remote set-url origin https://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a@github.com/exceloids/Lhorexcel.git
+git remote set-url origin https://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@github.com/exceloids/Lhorexcel.git
