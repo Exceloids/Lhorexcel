@@ -1,5 +1,5 @@
 @echo off
-git remote set-url origin https://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@github.com/exceloids/Lhorexcel.git
+git remote set-url origin https://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@github.com/exceloids/Lhorexcel.git
 pause
 git add .
 git commit -m "M307 Upload"
